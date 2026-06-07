@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.Rubik {
+  font-family: "rubik", sans-serif;
+}
+
+.Box-Radius{
+  border-radius: 6px;
+}
+body {
+  overflow-x: hidden;
+}
+
